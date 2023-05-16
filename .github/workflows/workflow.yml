@@ -12,7 +12,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Run my custom action
+      - name: Run my custom action1
+          uses: .../action/index
+          with:
+            name: Timor88
+      - name: Run my custom action2
         uses: .../action/action
         with:
           name: Timor88
