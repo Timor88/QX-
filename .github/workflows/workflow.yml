@@ -16,6 +16,6 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Run my custom action
-        uses: ../action/action
+        uses: .../action/action
         with:
           name: Timor88
