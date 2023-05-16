@@ -15,7 +15,8 @@
 ![Cuttlefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true&count_private=true&theme=vue)  
 
 > [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://github.com/ddgksf2013/ddgksf2013/issues)
-
+## 相关推荐
+- [Clash rules](https://github.com/Loyalsoldier/clash-rules)
 ## 1️⃣QuantumultX 小白2.0配置：
 * 配置更新时间：2023-05-09
 * 墨鱼自用QX配置 [***Cuttlefish.conf***](https://github.com/ddgksf2013/Profile/raw/master/QuantumultX.conf) 
