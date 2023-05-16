@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout
+        uses: actions/checkout@v3
         with:
           name: Timor88
       - name: Run3
