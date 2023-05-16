@@ -12,8 +12,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Run1
-        uses: .../action/index
+      - name: Checkout repository
+        uses: actions/checkout@v2
         with:
           name: Timor88
       - name: Run2
