@@ -17,6 +17,7 @@
 > [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://github.com/ddgksf2013/ddgksf2013/issues)
 ## ❤️相关推荐❤️
 - [Clash rules](https://github.com/Loyalsoldier/clash-rules)
+- [Clash rules](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash)
 
 
 ## 1️⃣QuantumultX 小白2.0配置：
