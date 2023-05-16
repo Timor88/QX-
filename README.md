@@ -1,3 +1,4 @@
+## 本仓库Fork于[QX配置](https://github.com/ddgksf2013/ddgksf2013)
 ## 墨魚手記（[赞助](https://github.com/ddgksf2013/Rewrite/blob/master/README.md "感谢打赏")）[Update on 2023-05-10](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
 ### 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 
