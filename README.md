@@ -18,7 +18,7 @@
 ## ❤️相关推荐❤️
 - [Clash rules](https://github.com/Loyalsoldier/clash-rules)
 - [Clash rules](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash)
-
+- [QX配置](https://github.com/ddgksf2013/ddgksf2013)
 
 ## 1️⃣QuantumultX 小白2.0配置：
 * 配置更新时间：2023-05-09
