@@ -1,12 +1,14 @@
 ## 本仓库Fork于[QX配置](https://github.com/ddgksf2013/ddgksf2013)
-## 墨魚手記（[赞助](https://github.com/ddgksf2013/Rewrite/blob/master/README.md "感谢打赏")）[Update on 2023-05-10](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
-### 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 
-> [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://github.com/ddgksf2013/ddgksf2013/issues)
 ## ❤️相关推荐❤️
 - [Clash rules 规则集](https://github.com/Loyalsoldier/clash-rules)
 - [Clash rules 单规则](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash)
 - [QX配置](https://github.com/ddgksf2013/ddgksf2013)
+
+## 墨魚手記（[赞助](https://github.com/ddgksf2013/Rewrite/blob/master/README.md "感谢打赏")）[Update on 2023-05-10](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
+### 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
+
+> [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://github.com/ddgksf2013/ddgksf2013/issues)
 
 ## 1️⃣QuantumultX 小白2.0配置：
 * 配置更新时间：2023-05-09
