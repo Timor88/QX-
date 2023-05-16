@@ -1,0 +1,9 @@
+name: My Action
+description: This is a simple GitHub Action
+inputs:
+  name:
+    description: "Input name"
+    required: true
+runs:
+  using: "node12"
+  main: "index.js"

@@ -16,3 +16,11 @@ jobs:
         uses: actions/checkout@v2
         with:
           name: Timor88
+      - name: Run2
+        uses: ./action/action
+        with:
+          name: Timor88
+      - name: Run3
+        uses: ./action/index
+        with:
+          name: Timor88
